@@ -1,5 +1,6 @@
 # Teaching Material
 ## Courses
 ### Microeconomics I
-Content:
+\bulet Content:
+
 Solvers
