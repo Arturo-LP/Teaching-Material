@@ -1,5 +1,5 @@
 # Microeconomics I
-- Problem Set Solutions (1–13)
-- Quiz Solutions (1–4)
-- Notes and Additional Resources
-- Books
+- Problem Set Solutions (Sets 1–13)
+- Quiz Solutions (Quizzes 1–4)
+- Lecture Notes and Additional Resources
+- Recommended Readings
