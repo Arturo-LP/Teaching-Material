@@ -12,7 +12,7 @@ A continuación se presenta una guía de preparación previa al curso. Recomiend
 
 Por otro lado, el curso hace un uso intensivo de varios conceptos de álgebra lineal. En particular, álgebra matricial, los operadores de determinante y traza, y la relación entre el polinomio característico, valores y vectores propios con el determinante y la traza. Si se sienten un poco oxidados con estos temas, les recomiendo darles un repaso previo, aunque sea de manera rápida. Pueden apoyarse en la referencia que les resulte más cómoda. Personalmente, recomiendo la siguiente:
 - Axler, S. (2024). *Linear algebra done right*. 4th Edition. Springer.
-- 
+
 De cualquier forma, conforme vayamos necesitando estas propiedades podrán consultarlas sin problema.
 
 # Ecuaciones Diferenciales Ordinarias (EDO)
