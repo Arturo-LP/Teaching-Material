@@ -10,6 +10,10 @@ La tercera parte está dedicada a la aplicación de estas herramientas a modelos
 # Preparación previa recomendada
 A continuación se presenta una guía de preparación previa al curso. Recomiendo ampliamente llegar con familiaridad conceptual (no necesariamente con dominio técnico completo) de los siguientes temas, ya que les facilitará mucho el ritmo del curso. En particular, la parte de ecuaciones diferenciales de primer orden se cubrirá durante la primera semana del semestre; por ello, sugiero priorizar el repaso de EDOs, especialmente las definiciones y conceptos básicos, así como los principales tipos y métodos de solución de ecuaciones diferenciales de primer orden.
 
+Por otro lado, el curso hace un uso intensivo de varios conceptos de álgebra lineal. En particular, álgebra matricial, los operadores de determinante y traza, y la relación entre el polinomio característico, valores y vectores propios con el determinante y la traza. Si se sienten un poco oxidados con estos temas, les recomiendo darles un repaso previo, aunque sea de manera rápida. Pueden apoyarse en la referencia que les resulte más cómoda. Personalmente, recomiendo la siguiente:
+- Axler, S. (2024). *Linear algebra done right*. 4th Edition. Springer.
+De cualquier forma, conforme vayamos necesitando estas propiedades podrán consultarlas sin problema.
+
 # Ecuaciones Diferenciales Ordinarias (EDO)
 ## Definiciones y Conceptos Básicos
 - Definición de EDO
