@@ -8,29 +8,35 @@ La segunda parte está dedicada a optimización dinámica. Se comienza con un re
 La tercera parte está dedicada a la aplicación de estas herramientas a modelos macroeconómicos. En particular, trabajarán el modelo clásico de ciclos económicos reales (RBC) al estilo de Hansen, para después introducir factores monetarios y concluir con fricciones nominales. En particular, el bloque termina con la formulación, calibración y análisis del modelo DSGE Nuevo Keynesiano canónico. Todo lo anterior con teoría y simulación en Dynare.
 
 # Preparación previa recomendada
-A continuación, una guía de preparación previa al curso. Recomiendo ampliamente llegar con familiaridad conceptual (no necesariamente dominio técnico completo) de los siguientes temas, ya que les facilitará mucho el ritmo del curso. En particular, la parte de ecuaciones diferenciales la abarcarán en la primera semana del semestre.
+A continuación se presenta una guía de preparación previa al curso. Recomiendo ampliamente llegar con familiaridad conceptual (no necesariamente con dominio técnico completo) de los siguientes temas, ya que les facilitará mucho el ritmo del curso. En particular, la parte de ecuaciones diferenciales de primer orden se cubrirá durante la primera semana del semestre; por ello, sugiero priorizar el repaso de EDOs, especialmente las definiciones y conceptos básicos, así como los principales tipos y métodos de solución de ecuaciones diferenciales de primer orden.
 
 # Ecuaciones Diferenciales Ordinarias (EDO)
 ## Definiciones y Conceptos Básicos
-- Definición de Ecuación Diferencial Ordinaria
+- Definición de EDO
 - Solución general, solución particular y curvas solución
 - Campos direccionales e isoclinas
 - Problemas de valor inicial y de valor en la frontera
 - Teorema de existencia y unicidad (opcional)
-- Estados estacionarios, estabilidad local y estabilidad en el sentido de Lyapunov (opcional)
-# Tipos de EDO de Primer Orden
+- Estado estacionario, estabilidad local y estabilidad en el sentido de Lyapunov (opcional)
+## EDO de Primer Orden
 - Ecuaciones de variables separables
 - Ecuaciones homogéneas
 - Ecuaciones exactas y cuasi-exactas
 - Ecuaciones lineales homogéneas y no homogéneas
-# EDO de Orden Superior
+## EDO de Orden Superior
 - Ecuaciones lineales homogéneas y no homogéneas con coeficientes constantes
-- # Sistemas de Ecuaciones Lineales con Coeficientes Constantes
+## Sistemas de Ecuaciones Lineales con Coeficientes Constantes
 - Sistemas Homogéneos
+- Método de valores propios
+- Clasificación de Puntos de Equilibrio
+- Plano Traza-Determinante
 - Sistemas No Homogéneos
+## Sistemas de Ecuaciones No Lineales
+- Sistemas autónomos no lineales
+- Linealización de puntos de equilibrio
 
 ## Bibliografía recomendada
-- Boyce, W. E., DiPrima, R. C., & Meade, D. B. (2017). *Elementary differential equations and boundary value problems*. 11th Edition. Wiley. **(Mi favorito)**
+- Boyce, W. E., DiPrima, R. C., & Meade, D. B. (2017). *Elementary differential equations and boundary value problems*. 11th Edition. Wiley. **(Favorito personal)**
 - Kiseliov, A., Krasnov, M., & Makarenko, G. (1984). *Problemas de ecuaciones diferenciales ordinarias*. 4th Edition. Editorial MIR. **(Ejercicios y algo de teoría)**
 - Zill, D. G., & Cullen, M. R. (2009). *Differential equations with boundary-value problems*. 7th Edition. Cengage Learning. **(El que más usará Itza para esta parte del curso)**
 - Hirsch, M. W., Smale, S., & Devaney, R. L. (2013). *Differential equations, dynamical systems, and an introduction to chaos*. 3th Edition. Academic Press. **(Bueno para sistemas dinámicos)**
