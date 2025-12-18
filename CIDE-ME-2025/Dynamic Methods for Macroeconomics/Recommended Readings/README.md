@@ -3,7 +3,7 @@ El curso está organizado en tres bloques principales, que se irán conectando d
 
 En la primera parte se introducen las herramientas básicas del análisis dinámico. El énfasis está en ecuaciones diferenciales ordinarias, ecuaciones en diferencias y sistemas dinámicos en tiempo continuo y discreto. La idea es que obtengan herramientas, intuición y práctica en el análisis de trayectorias, estados estacionarios y estabilidad (comportamiento de largo plazo), más allá de la mera solución mecánica de ecuaciones.
 
-La segunda parte está dedicada a optimización dinámica. Se comienza con un repaso breve del cálculo de variaciones, que sirve como puente hacia el control óptimo en tiempo continuo (Hamiltoniano) y la programación dinámica en tiempo discreto (Bellman).
+La segunda parte está dedicada a optimización dinámica. Se comienza con un breve repaso del cálculo de variaciones, que sirve como puente hacia el control óptimo en tiempo continuo (Hamiltoniano) y la programación dinámica en tiempo discreto (Bellman).
 
 La tercera parte está dedicada a la aplicación de estas herramientas a modelos macroeconómicos. En particular, trabajarán el modelo clásico de ciclos económicos reales (RBC) al estilo de Hansen, para después introducir factores monetarios y concluir con fricciones nominales. En particular, el bloque termina con la formulación, calibración y análisis del modelo DSGE Nuevo Keynesiano canónico. Todo lo anterior con teoría y simulación en Dynare.
 
